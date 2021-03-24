@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T05:12:46.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="4TVM9sOwdgOALUeSvlZ2" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T05:18:27.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="MnRWwltpgFGoy7smVWmG" version="14.4.4" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="1564" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="583" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="1109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="6a7d8f32e03d9370-60" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="77" y="830" width="602" height="374" as="geometry" />
+          <mxGeometry x="956" y="430" width="602" height="374" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-59" value="" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="164.25" y="100" width="427.5" height="479" as="geometry" />
+          <mxGeometry x="17" y="370" width="427.5" height="479" as="geometry" />
         </mxCell>
         <mxCell id="WmPxMNLJ52usVSzI9Kt4-3" value="IBM MQ&lt;br&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.merchandising_server;" vertex="1" parent="1">
-          <mxGeometry x="271.25" y="180" width="233" height="279.6" as="geometry" />
+          <mxGeometry x="124" y="450" width="233" height="279.6" as="geometry" />
         </mxCell>
         <mxCell id="WmPxMNLJ52usVSzI9Kt4-4" value="Server" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.license_server;" vertex="1" parent="1">
-          <mxGeometry x="265.59" y="887" width="216.4" height="283" as="geometry" />
+          <mxGeometry x="1144.59" y="487" width="216.4" height="283" as="geometry" />
         </mxCell>
         <mxCell id="WmPxMNLJ52usVSzI9Kt4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="WmPxMNLJ52usVSzI9Kt4-5" target="WmPxMNLJ52usVSzI9Kt4-18">
           <mxGeometry relative="1" as="geometry" />
@@ -33,50 +33,47 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WmPxMNLJ52usVSzI9Kt4-5" value="batch-ftifccintegration" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_service;" vertex="1" parent="1">
-          <mxGeometry x="325" y="933.81" width="80" height="76.19" as="geometry" />
+          <mxGeometry x="1204" y="533.81" width="80" height="76.19" as="geometry" />
         </mxCell>
-        <mxCell id="WmPxMNLJ52usVSzI9Kt4-14" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+        <mxCell id="WmPxMNLJ52usVSzI9Kt4-14" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1.001;exitY=0.32;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6a7d8f32e03d9370-59" target="6a7d8f32e03d9370-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="228" y="585" as="sourcePoint" />
-            <mxPoint x="228" y="830" as="targetPoint" />
+            <mxPoint x="477" y="524" as="sourcePoint" />
+            <mxPoint x="105" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WmPxMNLJ52usVSzI9Kt4-15" value="FCC.IN (Incoming message)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="WmPxMNLJ52usVSzI9Kt4-14">
           <mxGeometry x="-0.3081" y="-5" relative="1" as="geometry">
-            <mxPoint x="6.1299999999999955" y="13.41" as="offset" />
+            <mxPoint x="53.989999999999995" y="-28.830000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WmPxMNLJ52usVSzI9Kt4-18" value="input" style="image;html=1;image=img/lib/clip_art/general/Empty_Folder_128x128.png;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1040" width="60" height="60" as="geometry" />
+          <mxGeometry x="1329" y="640" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WmPxMNLJ52usVSzI9Kt4-23" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=14;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.678;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6a7d8f32e03d9370-60" target="6a7d8f32e03d9370-59">
+        <mxCell id="WmPxMNLJ52usVSzI9Kt4-23" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=14;entryX=0.982;entryY=0.626;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6a7d8f32e03d9370-59">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="457" y="810" as="sourcePoint" />
-            <mxPoint x="507" y="760" as="targetPoint" />
+            <mxPoint x="957" y="674" as="sourcePoint" />
+            <mxPoint x="477" y="617" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WmPxMNLJ52usVSzI9Kt4-24" value="FCC.OUT (Outgoing message)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="WmPxMNLJ52usVSzI9Kt4-23">
           <mxGeometry x="-0.2501" relative="1" as="geometry">
-            <mxPoint x="1.9499999999999993" y="-56.67" as="offset" />
+            <mxPoint x="-100" y="-23.690000000000005" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WmPxMNLJ52usVSzI9Kt4-28" value="&lt;div&gt;&amp;nbsp; hostname: sdmqmcdc01.developpement.local&lt;/div&gt;&lt;div&gt;&amp;nbsp; port: 1414&lt;/div&gt;&lt;div&gt;&amp;nbsp; channel: MDCDC1.TIPLUS&lt;/div&gt;&lt;div&gt;&amp;nbsp; queuemanager: MDCDC1&lt;/div&gt;&lt;div&gt;&amp;nbsp; qin: FCC.IN&lt;/div&gt;&lt;div&gt;&amp;nbsp; qout: FCC.OUT&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=14;align=left;" vertex="1" parent="1">
-          <mxGeometry x="481" y="200" width="333" height="120" as="geometry" />
+          <mxGeometry x="357" y="730" width="333" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WmPxMNLJ52usVSzI9Kt4-29" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; input: E:\batch-ftifccintegration\input\&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; output: E:\batch-ftifccintegration\output\&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; inputPattern: Fcc-in-&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; outputPattern: Fti-out-&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=14;align=left;" vertex="1" parent="1">
-          <mxGeometry x="537" y="1130" width="320" height="100" as="geometry" />
+          <mxGeometry x="1416" y="730" width="320" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WmPxMNLJ52usVSzI9Kt4-30" value="&lt;b&gt;JobXmlReader&amp;nbsp;&lt;/b&gt;&lt;span&gt;send all files to MQ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
-          <mxGeometry x="504.25" y="810" width="162.75" height="70" as="geometry" />
+        <mxCell id="WmPxMNLJ52usVSzI9Kt4-30" value="&lt;b&gt;JobXmlReader&amp;nbsp;&lt;/b&gt;&lt;span&gt;send all JMS messages&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;align=center;" vertex="1" parent="1">
+          <mxGeometry x="846" y="700" width="162.75" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="WmPxMNLJ52usVSzI9Kt4-31" value="&lt;b&gt;JobJmsReader&amp;nbsp;&lt;/b&gt;&lt;span&gt;write all messages to output folder&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="17" y="810" width="180" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="WmPxMNLJ52usVSzI9Kt4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="WmPxMNLJ52usVSzI9Kt4-31" target="WmPxMNLJ52usVSzI9Kt4-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WmPxMNLJ52usVSzI9Kt4-31" value="&lt;b&gt;JobJmsReader&amp;nbsp;&lt;/b&gt;&lt;span&gt;read all JMS messages&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="846" y="430" width="180" height="67" as="geometry" />
         </mxCell>
         <mxCell id="WmPxMNLJ52usVSzI9Kt4-33" value="output" style="image;html=1;image=img/lib/clip_art/general/Empty_Folder_128x128.png;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1040" width="60" height="60" as="geometry" />
+          <mxGeometry x="1109" y="640" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
