@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T03:52:42.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="cWKcHkqEyo4_tRWlvyVH" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="2374" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="486" dy="160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -31,10 +31,7 @@
           <mxGeometry x="263" y="370" width="69" height="86.25" as="geometry" />
         </mxCell>
         <mxCell id="VW5I2Nq3GzxUJWkYDi5d-14" value="Glassfish server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;" parent="1" vertex="1">
-          <mxGeometry x="210.88" y="610.75" width="73" height="91.25" as="geometry" />
-        </mxCell>
-        <mxCell id="VW5I2Nq3GzxUJWkYDi5d-16" value="Stock management &lt;br&gt;system" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#EE472A;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="196.13" y="632" width="30" height="27.75" as="geometry" />
+          <mxGeometry x="229.5" y="619" width="73" height="91.25" as="geometry" />
         </mxCell>
         <mxCell id="VW5I2Nq3GzxUJWkYDi5d-17" value="Quotation management &lt;br&gt;system" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#EE472A;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="236.5" y="441.62" width="26.5" height="29.63" as="geometry" />
@@ -108,7 +105,7 @@
             <mxPoint x="220" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MSnX6Q8yWCTC8m2u3m3Q-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="VW5I2Nq3GzxUJWkYDi5d-16" target="VW5I2Nq3GzxUJWkYDi5d-3" edge="1">
+        <mxCell id="MSnX6Q8yWCTC8m2u3m3Q-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VW5I2Nq3GzxUJWkYDi5d-16" target="VW5I2Nq3GzxUJWkYDi5d-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="830" as="sourcePoint" />
             <mxPoint x="670" y="780" as="targetPoint" />
@@ -237,35 +234,50 @@
             <mxPoint x="850" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G8M47Vn9InshXegsKb__-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VW5I2Nq3GzxUJWkYDi5d-13" target="VW5I2Nq3GzxUJWkYDi5d-32">
+        <mxCell id="G8M47Vn9InshXegsKb__-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="VW5I2Nq3GzxUJWkYDi5d-13" target="VW5I2Nq3GzxUJWkYDi5d-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="297.7499999999975" y="614.375" as="sourcePoint" />
             <mxPoint x="400" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G8M47Vn9InshXegsKb__-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VW5I2Nq3GzxUJWkYDi5d-36" target="VW5I2Nq3GzxUJWkYDi5d-36">
+        <mxCell id="G8M47Vn9InshXegsKb__-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VW5I2Nq3GzxUJWkYDi5d-36" target="VW5I2Nq3GzxUJWkYDi5d-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G8M47Vn9InshXegsKb__-7" value="Window server 2" style="whiteSpace=wrap;html=1;fillColor=#FFD470;gradientColor=none;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="G8M47Vn9InshXegsKb__-7" value="Window server 2" style="whiteSpace=wrap;html=1;fillColor=#FFD470;gradientColor=none;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="34.21" y="777.63" width="440" height="212.37" as="geometry" />
         </mxCell>
-        <mxCell id="G8M47Vn9InshXegsKb__-4" value="IIS" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="220.19" y="849.37" width="73" height="91.25" as="geometry" />
+        <mxCell id="G8M47Vn9InshXegsKb__-4" value="IIS" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;" parent="1" vertex="1">
+          <mxGeometry x="205.91" y="804.86" width="73" height="91.25" as="geometry" />
         </mxCell>
-        <mxCell id="G8M47Vn9InshXegsKb__-3" value="SAP Business &lt;br&gt;API" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#EE472A;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="201.57" y="881.1199999999998" width="30" height="27.75" as="geometry" />
-        </mxCell>
-        <mxCell id="G8M47Vn9InshXegsKb__-6" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VW5I2Nq3GzxUJWkYDi5d-8" target="VW5I2Nq3GzxUJWkYDi5d-3">
+        <mxCell id="G8M47Vn9InshXegsKb__-6" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="VW5I2Nq3GzxUJWkYDi5d-8" target="VW5I2Nq3GzxUJWkYDi5d-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="288.90999999999985" y="560.9162399204683" as="sourcePoint" />
             <mxPoint x="400" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G8M47Vn9InshXegsKb__-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="G8M47Vn9InshXegsKb__-4" target="VW5I2Nq3GzxUJWkYDi5d-22">
+        <mxCell id="G8M47Vn9InshXegsKb__-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="G8M47Vn9InshXegsKb__-3" target="VW5I2Nq3GzxUJWkYDi5d-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="293.88000000000284" y="666.375" as="sourcePoint" />
             <mxPoint x="420" y="600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="71iVdRzjSHQzj8EPCvQc-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="G8M47Vn9InshXegsKb__-4" target="G8M47Vn9InshXegsKb__-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="876" as="sourcePoint" />
+            <mxPoint x="637" y="677" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G8M47Vn9InshXegsKb__-3" value="SAP Business &lt;br&gt;API - inventory management" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#EE472A;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="251" y="819.1899999999998" width="30" height="27.75" as="geometry" />
+        </mxCell>
+        <mxCell id="71iVdRzjSHQzj8EPCvQc-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="VW5I2Nq3GzxUJWkYDi5d-14" target="VW5I2Nq3GzxUJWkYDi5d-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="211" y="656" as="sourcePoint" />
+            <mxPoint x="86" y="532" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VW5I2Nq3GzxUJWkYDi5d-16" value="Sales &amp;amp; invoicing management &lt;br&gt;system" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#EE472A;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="209.5" y="642.62" width="30" height="27.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
